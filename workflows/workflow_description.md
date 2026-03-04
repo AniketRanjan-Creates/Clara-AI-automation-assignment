@@ -9,9 +9,9 @@ The system extracts structured account data, generates agent prompts, versions c
 ## Architecture
 
 Demo Transcript
-     ↓
+↓
 Extraction Script
-     ↓
+↓
 Account Memo JSON
 ↓
 Agent Spec Generator
