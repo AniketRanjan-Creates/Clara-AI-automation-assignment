@@ -1,0 +1,10 @@
+{
+  "account_id": "account_1",
+  "company_name": "RapidFix Plumbing",
+  "business_hours": "Monday to Friday 9 AM to 5 PM EST.",
+  "office_address": "42 West Street, Chicago.",
+  "services_supported": [],
+  "emergency_definition": [],
+  "emergency_routing_rules": [],
+  "notes": "Generated from demo transcript"
+}

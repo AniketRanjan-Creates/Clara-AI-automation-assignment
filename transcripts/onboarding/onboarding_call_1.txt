@@ -1,0 +1,9 @@
+Company name: RapidFix Plumbing
+
+Business hours updated to Monday to Saturday 8 AM to 6 PM EST.
+
+Emergency definition now includes flooding, burst pipes and sewage backup.
+
+Emergency calls should first go to technician Sarah and if unavailable to Mike.
+
+Office address remains 42 West Street, Chicago.
